@@ -1,0 +1,1 @@
+This is a One month rails sample app.
